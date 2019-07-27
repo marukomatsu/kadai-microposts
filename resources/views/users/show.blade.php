@@ -19,5 +19,6 @@
                 @include('microposts.microposts', ['microposts' => $microposts])
             @endif
         </div>
+        
     </div>
 @endsection
